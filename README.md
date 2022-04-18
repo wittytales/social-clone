@@ -1,2 +1,2 @@
-# tiktok-clone
-Implemented tiktok clone with all user interactive functionalities
+# Social-clone
+Implemented Social clones with all user interactive functionalities
